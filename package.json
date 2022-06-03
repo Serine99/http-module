@@ -1,0 +1,15 @@
+{
+  "name": "http_module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http.js",
+  "scripts": {
+    "dev": "nodemon http_module.js"
+  },
+  "author": "Serine",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
